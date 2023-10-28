@@ -6,6 +6,9 @@ This is a simple tip calculator web application created using HTML, CSS, and Jav
 
 The Tip Calculator is a small web project that helps users quickly and easily calculate tips for their bills. It's a straightforward tool with a clean and user-friendly interface.
 
+## UI 
+![Image Description](UI.png)
+
 ## How It Works
 
 1. Open the `index.html` file in a web browser.
